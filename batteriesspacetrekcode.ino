@@ -1,12 +1,10 @@
 /*
- * [Project Title Redacted]
- * [Organization or Facility Name Redacted]
+ * [NASA SpaceTrek Weather Balloon Launch - Batteries w/ Thermistors Testing]
  * Starter program for using an Arduino Uno or MEGA 2560 with
  * an XBEE shield attached. Most XBEE shields block the USB serial
  * port. You need to remove the shield to program the board and then 
  * replace the shield to test with the Flight Computer (FC).
  * 
- * Author: [Name Redacted]
  * Date: Mar. 20th, 2025
  */
 
